@@ -1,0 +1,8 @@
+com\yitaqi\service\factory\TradeServiceFactory.class
+com\yitaqi\service\impl\DynamicProxy.class
+com\yitaqi\service\impl\ProxyTradeService.class
+com\yitaqi\service\interf\TradeService.class
+com\yitaqi\service\impl\CGLibProxy.class
+com\yitaqi\controller\ProxyController.class
+com\yitaqi\service\impl\TradeServiceImpl.class
+com\yitaqi\controller\Starter.class

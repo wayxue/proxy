@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DynamicProxy:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="DynamicProxy.war">
+      <element id="artifact" artifact-name="DynamicProxy:war exploded" />
+    </root>
+  </artifact>
+</component>
